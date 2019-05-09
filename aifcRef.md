@@ -1,19 +1,20 @@
 # 참고
 ### Web
-- 포스트타워 15층(공덕역 1번출구 좌측)
-  * ICT Coc : http://ictcoc.kr/03_pro/pro01.asp
-  * AI 이노베이션 스퀘어 https://ai.koipa.or.kr/
+- 포스트타워 (공덕역 1번출구 좌측)
+  * ICT 콤플렉스 (ICT Coc) (14층) : http://ictcoc.kr/03_pro/pro01.asp
+  * AI 이노베이션 스퀘어 (15층) : https://ai.koipa.or.kr/
 - Google : https://developers.google.com/machine-learning/
 - AWS : https://aws.amazon.com/ko/machine-learning/
+
+### ICT 콤플렉스(이하, ICT Coc) 
+```
+ICT 네트워킹 장소
+AI, 블록체인
+```
 
 ### AI 이노베이션 스퀘어
 ```
 AI 기본, 고급, BM 과정
-```
-### ICT Coc
-```
-ICT 네트워킹 장소
-AI, 블록체인
 ```
 ### 구글 머신러닝 단기집중과정
 ```
