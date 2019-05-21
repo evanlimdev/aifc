@@ -13,7 +13,8 @@
 * Apache Spark : https://spark.apache.org/
 * Anaconda : https://www.anaconda.com/
 * TensorFlow : https://www.tensorflow.org/
-* Jupiter notebook : 
+* Jupiter notebook : https://jupyter.org/
+* Google colab : https://colab.research.google.com
 
 ### 4. 공공, 기관, 협회
 * 4차 대통령 직속 산업혁명위원회 : https://www.4th-ir.go.kr/
@@ -22,6 +23,10 @@
 * NIPA 정보통신산업지흥원 : http://www.nipa.kr/
 * 공공데이터 포탈 : http://www.data.go.kr/
 * K Startup : https://www.k-startup.go.kr/
+* AI HUB, AI 오픈 이노베이션 허브 : http://www.aihub.or.kr/
+
+### 5. 교육기관
+* T 아카데미 : https://tacademy.skplanet.com
 
 ## [참고] AI 관련 - 서브 URL 
 
@@ -52,5 +57,10 @@
 
 ### NIPA 정보통신산업진흥원
 * 홈 > 사업안내 > 인공지능산업육성 : http://www.nipa.kr/biz/main.it?menuNo=1070
-* 홈 > 알림 > NIPA 소식 : http://www.nipa.kr/board/boardList.it
-* 홈 > 알림 > 공지사항 : http://www.nipa.kr/board/boardList.it
+
+### T 아키데미
+* T 아카데미 > 온라인 강의 > 온라인 교육과정
+  - AI/빅데이터, 프런트엔드 개발, 백엔드개발, 개발공통, 기획/디자인
+
+### AI HUB, AI 오픈 이노베이션 허브
+* 법률, 특허, 관광, 농업, 일반상, 이미지, 헬스케, 한국어(한국형이미지), 멀티모, 한국어, 기계독
