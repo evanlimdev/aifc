@@ -11,12 +11,16 @@
 
 ## 모임
 
+### 3차 소모임 링크
+- [3차 소모임 링크](hhttps://github.com/evanlimdev/aifc/aifc2019/aifc20190524/aifc20190524.md]
+
 ### 3차 소모임 예정
 - 모임주제 : [2차] AI Flower Community 스터디 및 네트워킹
 - 모임시간 : 2019-05-24(금) 13:00 ~ 13:30
 - 모임장소 : 수업끝나고 바로 15층 화장실앞 긴 테이블에서 진행
 - 모임대상 : AI BM(Business Model) 교육생, AI(인공지능)를 알고 싶은자
 - 모임소주제
+  * 주제 : [선로 인식](hhttps://github.com/evanlimdev/aifc/aifc2019/aifc20190524/aifc20190524.md)
 ```
   한분이 AI 주제 정해서 진행 (약 15분)
   나머지 15분은 AI 의견교환
