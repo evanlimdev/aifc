@@ -15,6 +15,8 @@
 * TensorFlow : https://www.tensorflow.org/
 * Jupiter notebook : https://jupyter.org/
 * Google colab : https://colab.research.google.com
+* Voice 인식 - Kaldi ssr : https://kaldi-asr.org/
+* Voice - OpenSSR : https://github.com/OpenSSR   
 
 ### 4. 공공, 기관, 협회
 * 4차 대통령 직속 산업혁명위원회 : https://www.4th-ir.go.kr/
@@ -64,3 +66,7 @@
 
 ### AI HUB, AI 오픈 이노베이션 허브
 * 법률, 특허, 관광, 농업, 일반상, 이미지, 헬스케, 한국어(한국형이미지), 멀티모, 한국어, 기계독
+
+### Voice 인식 - Kaldi ssr
+* git : https://github.com/kaldi-asr/kaldi
+* egs ( examples ) : 중요 https://github.com/kaldi-asr/kaldi/tree/master/egs/librispeech/s5
